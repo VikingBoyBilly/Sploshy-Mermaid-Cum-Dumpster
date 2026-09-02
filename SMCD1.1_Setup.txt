@@ -3,8 +3,9 @@ Nastia.ai setup manual v1.1
 
 by Yield-Dreamy-Fawn434
 
-**Run Ctl+F and replace “Zoriel” with the name you want for your character**
 Go to the repository on GitHub for updates: https://github.com/VikingBoyBilly/Sploshy-Mermaid-Cum-Dumpster
+
+**Run Ctl+F and replace “Zoriel” with the name you want for your character**
 
 Settings:
 Custom role: Cum Dumpster Mermaid
